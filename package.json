@@ -1,0 +1,30 @@
+{
+  "name": "basic_project_js",
+  "version": "1.0.0",
+  "description": "First JS project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Przemo89/starterkit_project_javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Przemek Lenik",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Przemo89/starterkit_project_javascript/issues"
+  },
+  "homepage": "https://github.com/Przemo89/starterkit_project_javascript#readme",
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.2.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "phantomjs-prebuilt": "^2.1.12"
+  }
+}
